@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run --rm -it -p 8080:8080 -p 9990:9990 ivonet/wildfly-admin
+docker run --rm -it -p 8080:8080 -p 9990:9990 ivonet/wildfly-admin:10.0.0.Final
